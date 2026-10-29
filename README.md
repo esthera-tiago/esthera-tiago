@@ -6,7 +6,7 @@
       <p><strong>Building, learning &amp; exploring the world of technology.</strong></p>
     </td>
     <td align="right" valign="middle" width="45%">
-      <img src="assets/cat-banner.svg" width="900" alt="Animated cat walking banner" />
+      <img src="cat-banner(1).svg" width="900" alt="Animated cat walking banner" />
     </td>
   </tr>
 </table>
