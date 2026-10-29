@@ -3,14 +3,12 @@
 
   <div style="position:relative; z-index:2; width:100%; display:flex; align-items:center; justify-content:space-between; gap:36px; padding:28px 40px;">
     <div style="flex:1; min-width:280px; max-width:560px; color:#fff; text-shadow: 0 3px 18px rgba(54, 26, 79, 0.8);">
-      <h1 style="margin:0; font-size:3.05rem; line-height:1.05; letter-spacing:0.04em; font-weight:800; color:#fef7ff;">Esthera Tiago</h1>
-      <h3 style="margin:10px 0 14px; font-size:1.45rem; font-weight:600; color:#f2d8ff; letter-spacing:0.02em;"><em style="font-style:italic; color:#ffd7f7;">Pseudo: cute dev</em> ♥</h3>
       <p style="margin:0; font-size:1.1rem; line-height:1.6; color:#fbefff; font-weight:600;">
         Building, learning &amp; exploring the world of technology.
       </p>
     </div>
 
-    <div style="flex:0 0 440px; display:flex; align-items:center; justify-content:center;">
+  <div style="flex:0 0 440px; display:flex; align-items:center; justify-content:center;">
       <img src="cat-banner(1).svg" alt="Animated cat walking banner" style="display:block; width:100%; max-width:440px; height:auto; filter: drop-shadow(0 12px 28px rgba(15, 8, 24, 0.55));" />
     </div>
   </div>
