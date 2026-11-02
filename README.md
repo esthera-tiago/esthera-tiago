@@ -47,41 +47,41 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
   <tr>
     <td><b>Front-end</b></td>
     <td>
-      <img src="assets/stack/html.svg" width="52" alt="HTML" />
-      <img src="assets/stack/css.svg" width="52" alt="CSS" />
-      <img src="assets/stack/js.svg" width="52" alt="JavaScript" />
-      <img src="assets/stack/dart.svg" width="52" alt="Dart" />
+      <img src="assets/stack/html.svg" width="56" alt="HTML" />
+      <img src="assets/stack/css.svg" width="56" alt="CSS" />
+      <img src="assets/stack/js.svg" width="56" alt="JavaScript" />
+      <img src="assets/stack/dart.svg" width="56" alt="Dart" />
     </td>
   </tr>
   <tr>
     <td><b>Back-end</b></td>
     <td>
-      <img src="assets/stack/js.svg" width="52" alt="JavaScript" />
-      <img src="assets/stack/python.svg" width="52" alt="Python" />
-      <img src="assets/stack/cpp.svg" width="52" alt="C++" />
-      <img src="assets/stack/php.svg" width="52" alt="PHP" />
+      <img src="assets/stack/js.svg" width="56" alt="JavaScript" />
+      <img src="assets/stack/python.svg" width="56" alt="Python" />
+      <img src="assets/stack/cpp.svg" width="56" alt="C++" />
+      <img src="assets/stack/php.svg" width="56" alt="PHP" />
     </td>
   </tr>
   <tr>
     <td><b>Frameworks &amp; libraries</b></td>
     <td>
-      <img src="assets/stack/react.svg" width="52" alt="React" />
-      <img src="assets/stack/bootstrap.svg" width="52" alt="Bootstrap" />
-      <img src="assets/stack/flutter.svg" width="52" alt="Flutter" />
+      <img src="assets/stack/react.svg" width="56" alt="React" />
+      <img src="assets/stack/bootstrap.svg" width="56" alt="Bootstrap" />
+      <img src="assets/stack/flutter.svg" width="56" alt="Flutter" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="assets/stack/sql.svg" width="52" alt="SQL" />
-      <img src="assets/stack/postgres.svg" width="52" alt="PostgreSQL" />
-      <img src="assets/stack/firebase.svg" width="52" alt="Firebase" />
+      <img src="assets/stack/sql.svg" width="56" alt="SQL" />
+      <img src="assets/stack/postgres.svg" width="56" alt="PostgreSQL" />
+      <img src="assets/stack/firebase.svg" width="56" alt="Firebase" />
     </td>
   </tr>
   <tr>
     <td><b>CMS</b></td>
     <td>
-      <img src="assets/stack/wordpress.svg" width="52" alt="WordPress" />
+      <img src="assets/stack/wordpress.svg" width="56" alt="WordPress" />
     </td>
   </tr>
 </table>
@@ -101,10 +101,22 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
 ## <img src="assets/icons/toolbox.svg" width="26" align="center" /> Tools I Use
 
 <p align="center">
-  <img src="assets/badges/github.svg" height="36" alt="GitHub" />
-  <img src="assets/badges/vercel.svg" height="36" alt="Vercel" />
-  <img src="assets/badges/wordpress.svg" height="36" alt="WordPress" />
-  <img src="assets/badges/firebase.svg" height="36" alt="Firebase" />
+  <img src="assets/tools/github.svg" height="28" alt="GitHub" />
+  <img src="assets/tools/vercel.svg" height="28" alt="Vercel" />
+  <img src="assets/tools/wordpress.svg" height="28" alt="WordPress" />
+  <img src="assets/tools/firebase.svg" height="28" alt="Firebase" />
+</p>
+
+---
+
+## <img src="assets/icons/laptop.svg" width="26" align="center" /> Explored OS
+
+<p align="center">
+  <img src="assets/os/windows10.svg" height="28" alt="Windows 10" />
+  <img src="assets/os/windows11.svg" height="28" alt="Windows 11" />
+  <img src="assets/os/ubuntu.svg" height="28" alt="Ubuntu" />
+  <img src="assets/os/parrot.svg" height="28" alt="Parrot OS" />
+  <img src="assets/os/arch.svg" height="28" alt="Arch Linux (current)" />
 </p>
 
 ---
