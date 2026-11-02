@@ -11,29 +11,16 @@
 
 ---
 
-## <img src="assets/icons/user.svg" width="26" align="center" /> About Me
-
-Hi, I'm **Esthera**!
-I'm a junior web developer and third-year Computer Science student at the **University of Yaoundé 1**. I've built web applications, a fintech product and an educational game, and I'm passionate about digital innovation for development. I'm now eager to learn and apply **data and AI tools**, ideally in a remote, international setting.
-
-- **Studying:** B.Sc. Computer Science (Year 3), University of Yaoundé 1
-- **Qualification:** Professional Diploma in Web Mastering, CFP CEA Digital
-- **Currently learning:** Data & AI tools
-- **Based in:** Cameroon
-- **Open to:** collaborations, internships and remote opportunities
-
----
-
-## <img src="assets/icons/building.svg" width="26" align="center" /> My Role at SHE4TECH
+### _My Current Role_
 
 <table>
   <tr>
     <td><b>Position</b></td>
-    <td>[Your role at SHE4TECH]</td>
+    <td>Co-founder SHE4TECH]</td>
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>[What you do, e.g. building tools, mentoring, organizing events]</td>
+    <td>Mentoring and community management</td>
   </tr>
   <tr>
     <td><b>Mission</b></td>
@@ -43,7 +30,7 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
 
 ---
 
-## <img src="assets/icons/code.svg" width="26" align="center" /> My Tech Stack
+### _My Tech Stack, Tools and Os Explored_
 
 <table>
   <tr>
@@ -88,19 +75,7 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
   </tr>
 </table>
 
----
 
-## <img src="assets/icons/folder.svg" width="26" align="center" /> Projects &amp; Experience
-
-| Project | Description |
-|---|---|
-| **Kotis** | Bill-splitting web app that lets a group share and settle common expenses easily. Built during the first Cameroon edition of **PawaPay Builder**, a fintech programme. |
-| **[Gamo](https://gamo-ivory.vercel.app)** | Educational web game to learn the map of Africa: identify countries and unlock regions as you progress. |
-| **FAGICIEL** | Web Master Intern: complete redesign of the institutional website [fagiciel.com](https://fagiciel.com) on WordPress. |
-
----
-
-## <img src="assets/icons/toolbox.svg" width="26" align="center" /> Tools I Use
 
 <p align="center">
   <img src="assets/tools/github.svg" height="28" alt="GitHub" />
@@ -109,9 +84,7 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
   <img src="assets/tools/firebase.svg" height="28" alt="Firebase" />
 </p>
 
----
 
-## <img src="assets/icons/laptop.svg" width="26" align="center" /> Explored OS
 
 <p align="center">
   <img src="assets/os/windows10.svg" height="28" alt="Windows 10" />
@@ -130,18 +103,9 @@ I'm a junior web developer and third-year Computer Science student at the **Univ
   <img src="assets/flags/english.svg" height="52" alt="English" />
 </p>
 
----
+### _Current Focus_
 
-## <img src="assets/icons/chart.svg" width="26" align="center" /> GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0f0718&title_color=D8B4FE&icon_color=c084fc&text_color=fbefff" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f0718&title_color=D8B4FE&text_color=fbefff" alt="Top languages" />
-</p>
-
----
-
-## <img src="assets/icons/mail.svg" width="26" align="center" /> Contact Me
+### Contact Me
 
 <p align="center">
   <a href="mailto:estheratiago@gmail.com"><img src="assets/badges/email.svg" height="36" alt="Email" /></a>
