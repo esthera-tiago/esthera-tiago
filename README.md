@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=2d163e&section=header&reversal=false&text=Esthera+TIAGO&textBg=false&fontColor=D8B4FE&fontSize=60&fontAlign=50&fontAlignY=27&rotate=0&stroke=C8A2C8&strokeWidth=2&desc=C%CF%85t%D1%94+D%D1%94%CE%BD+%F0%9F%92%9C&descSize=24&descAlign=50&descAlignY=47" alt="Esthera TIAGO banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Redaction+70&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Building+...;Learning+...;Exporing+the+world+of+techology;While+trying+to+fit+in!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Redaction+50&duration=4000&pause=100&color=A855F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Building+...;Learning+...;Exporing+the+world+of+techology;While+trying+to+fit+in!" alt="Typing SVG" />
 </a>
 
 </div>
