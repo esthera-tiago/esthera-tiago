@@ -76,18 +76,16 @@
 </table>-->
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=arch,bash,blender,c,cpp,css,dart,docker,figma,flutter,html,java,js,kotlin,matlab,php,postgres,powershell,py,r,react,supabase,windows,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,blender,c,cpp,css,dart,docker,figma,flutter,html,java,js,kotlin,matlab,php,postgres,powershell,py,r,react,supabase,windows,vscode&theme=dark&perline=12" />
+  <p align="center">
+    
+  <br/><br/>
+     [![](https://img.shields.io/badge/vercel-8A2BE2%3Flogo%3Dvercel)](/)
+     [![](https://img.shields.io/badge/wordpress-basics-violet)](/)
+     [![](https://img.shields.io/badge/Firebase-Concepts-orange)](/)
+     [![](https://img.shields.io/badge/Ubuntu-Os-red)](/)
+  </p>
 </div>
-
-
-
-<p align="center">
-
- <br/><br/>
- [![](https://img.shields.io/badge/vercel-8A2BE2%3Flogo%3Dvercel)](/)
- [![](https://img.shields.io/badge/wordpress-basics-violet)](/)
- [![](https://img.shields.io/badge/Firebase-Concepts-orange)](/)
- [![](https://img.shields.io/badge/Ubuntu-Os-red)](/)
 
 ---
 
