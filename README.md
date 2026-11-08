@@ -76,7 +76,7 @@
 </table>-->
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=arch,bash,blender,c,cpp,css,dart,docker,figma,flutter,html,java,js,kotlin,matlab,php,prostgres,powershell,py,r,react,subabase,windows,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,blender,c,cpp,css,dart,docker,figma,flutter,html,java,js,kotlin,matlab,php,postgres,powershell,py,r,react,supabase,windows,vscode&theme=dark&perline=8" />
 </div>
 
 
@@ -91,7 +91,7 @@
 
 ---
 
-## <img src="assets/icons/globe.svg" width="26" align="center" /> Languages
+### _Languages_
 
 <p align="center">
 
@@ -103,7 +103,7 @@
 
 ### _Current Focus_
 
-### Contact Me
+### _Contact Me_
 
 <p align="center">
   <a href="mailto:estheratiago@gmail.com"><img src="assets/badges/email.svg" height="36" alt="Email" /></a>
