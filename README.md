@@ -126,7 +126,7 @@
 
 <div align="center">
 
-*Thanks for stopping by, leave a* ⭐ *if you like something!* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc.gif" width="25" alt="Waving hand"/>
+*Thanks for stopping by, leave a* ⭐ *if you like something!* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" width="25" alt="Waving hand"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2d163e&section=footer" width="100%" alt="footer" />
 
