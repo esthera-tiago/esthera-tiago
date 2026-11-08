@@ -7,26 +7,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Redaction+50&duration=4000&pause=100&color=A855F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Building+...;Learning+...;Exporing+the+world+of+techology;While+trying+to+fit+in!" alt="Typing SVG" />
 </a>
 
+<br />
+
+<img src="cat-banner(1).svg" width="100%" alt="Walking cat" />
+
 </div>
+
+
 
 ---
 
 ### _My Current Role_
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td><b>Position</b></td>
-    <td>Co-founder SHE4TECH]</td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/POSITION-9D4EDD?style=for-the-badge" alt="Position">
+    </td>
+    <td><b>Co-founder, SHE4TECH</b></td>
   </tr>
   <tr>
-    <td><b>Focus</b></td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/FOCUS-9D4EDD?style=for-the-badge" alt="Focus">
+    </td>
     <td>Mentoring and community management</td>
   </tr>
   <tr>
-    <td><b>Mission</b></td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/MISSION-9E4EDD?style=for-the-badge" alt="Mission">
+    </td>
     <td>Empowering women and girls in tech through learning, mentorship and community.</td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -90,27 +106,27 @@
 
 ### _Languages_
 
-<p align="center">
+<div align="center"><p align="center">
 
   
   [![](https://img.shields.io/badge/Fran%C3%A7ais-90%25-blue)](/)
   [![](https://img.shields.io/badge/English-90%25-blue)](/)
   [![](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD-Beginner-red)](/)
-</p>
+</p></div>
 
-### _Current Focus_
+<!--### _Current Focus_-->
 
 ### _Contact Me_
 
 <p align="center">
-  <a href="mailto:estheratiago@gmail.com"><img src="assets/badges/email.svg" height="36" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="assets/badges/linkedin.svg" height="36" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio.com"><img src="assets/badges/portfolio.svg" height="36" alt="Portfolio" /></a>
+  <a href="mailto:estheratiago@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/esthera-tiago-a1818430b/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge" height="36" alt="LinkedIn" /></a>
+  <a href="https://esthera-tiago.me"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" alt="Portfolio" /></a>
 </p>
 
 <div align="center">
 
-<img src="assets/icons/heart.svg" width="22" align="center" /> *Thanks for stopping by, leave a* <img src="assets/icons/star.svg" width="20" align="center" /> *if you like something!* <img src="assets/icons/heart.svg" width="22" align="center" />
+*Thanks for stopping by, leave a* ⭐ *if you like something!* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="25" alt="Waving hand"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2d163e&section=footer" width="100%" alt="footer" />
 
