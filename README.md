@@ -32,7 +32,7 @@
 
 ### _My Tech Stack, Tools and Os Explored_
 
-<table>
+<!--<table>
   <tr>
     <td><b>Front-end</b></td>
     <td>
@@ -73,34 +73,30 @@
       <img src="assets/stack/wordpress.svg" width="56" alt="WordPress" />
     </td>
   </tr>
-</table>
+</table>-->
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=arch,bash,blender,c,cpp,css,dart,docker,figma,flutter,html,java,js,kotlin,matlabphp,prostgres,powershell,py,r,react,subabase,windows,vscode&theme=dark&perline=8" />
+</div>
 
 
 
 <p align="center">
-  <img src="assets/tools/github.svg" height="28" alt="GitHub" />
-  <img src="assets/tools/vercel.svg" height="28" alt="Vercel" />
-  <img src="assets/tools/wordpress.svg" height="28" alt="WordPress" />
-  <img src="assets/tools/firebase.svg" height="28" alt="Firebase" />
-</p>
-
-
-
-<p align="center">
-  <img src="assets/os/windows10.svg" height="28" alt="Windows 10" />
-  <img src="assets/os/windows11.svg" height="28" alt="Windows 11" />
-  <img src="assets/os/ubuntu.svg" height="28" alt="Ubuntu" />
-  <img src="assets/os/parrot.svg" height="28" alt="Parrot OS" />
-  <img src="assets/os/arch.svg" height="28" alt="Arch Linux (current)" />
-</p>
+ 
+ [![](https://img.shields.io/badge/vercel-8A2BE2%3Flogo%3Dvercel)](/)
+ [![](https://img.shields.io/badge/wordpress-basics-violet)](/)
+ [![](https://img.shields.io/badge/Firebase-Concepts-orange)](/)
+ [![](https://img.shields.io/badge/Ubuntu-Os-red)](/)
 
 ---
 
 ## <img src="assets/icons/globe.svg" width="26" align="center" /> Languages / Langues
 
 <p align="center">
-  <img src="assets/flags/french.svg" height="52" alt="Français" />
-  <img src="assets/flags/english.svg" height="52" alt="English" />
+  
+  [![](https://img.shields.io/badge/Fran%C3%A7ais-90%25-blue)](/)
+  [![](https://img.shields.io/badge/English-90%25-blue)](/)
+  [![](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD-Beginner-red)](/)
 </p>
 
 ### _Current Focus_
